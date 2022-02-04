@@ -140,4 +140,4 @@ function moveArray(arr) {
     arr.push(0)
     console.log(arr)
 }
-moveArray([1, 2, 3, 4, 5])
+// moveArray([1, 2, 3, 4, 5])
